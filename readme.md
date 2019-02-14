@@ -12,7 +12,7 @@ Move knife.sp into scripting folder and move knife.smx into your plugins folder.
 
 ## Built With
 
-* [Visual Basic in Visual Studio](https://visualstudio.microsoft.com/)
+* [Visual Studio](https://visualstudio.microsoft.com/)
 
 ## Authors
 
