@@ -1,6 +1,6 @@
 # Knife Plugin
 
-A plugin made for CS:GO sourcemod servers that prevents users from typing !knife in chat by displaying a message stating that the !knife plugin is not enabled on the server.
+A plugin made for CS:GO sourcemod servers that prevents users from typing !knife, !ws, or !gloves in chat by displaying a message stating that the !knife plugin is not enabled on the server.
 
 ## Installation
 
